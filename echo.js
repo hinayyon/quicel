@@ -1,1 +1,1 @@
-return params.join(" ");
+return params.join("hogege");
